@@ -3,7 +3,7 @@
 In this assignment, you will learn to use the developer's tool to inspect the elements of [this](https://nznznh.csb.app/) webpage.
 
 1. What is the right margin of the first element? 
-```
+
 Your answer here
 ```
 
