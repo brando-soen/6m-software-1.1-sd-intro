@@ -35,7 +35,7 @@ div:nth-child(6)
         width: 100%;
         height: 100%;
         margin: 0;
-        width: 484px;  /*set width of blue box so it is within purple box/
+        box-sizing: border-box;  /* keep blue box within puprle box/
       }
 ```
 
